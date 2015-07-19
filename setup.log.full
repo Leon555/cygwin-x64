@@ -1,0 +1,31 @@
+2015/07/19 13:38:09 Starting cygwin install, version 2.871
+2015/07/19 13:38:09 User has backup/restore rights
+2015/07/19 13:38:09 Current Directory: W:\Softwares\OSs\cygwin-x64
+2015/07/19 13:38:09 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/07/19 13:38:12 source: download
+2015/07/19 13:38:13 Selected local directory: W:\Softwares\OSs\cygwin-x64
+2015/07/19 13:38:14 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2015/07/19 13:38:16 site: http://mirrors.163.com/cygwin/
+get_url_to_membuf http://mirrors.163.com/cygwin/x86_64/setup.bz2
+getUrlToStream http://mirrors.163.com/cygwin/x86_64/setup.bz2
+get_url_to_membuf http://mirrors.163.com/cygwin/x86_64/setup.bz2.sig
+getUrlToStream http://mirrors.163.com/cygwin/x86_64/setup.bz2.sig
+.ini setup_version is 2.871, our setup_version is 2.871
+2015/07/19 13:38:57 Adding required dependency cygwin-devel: Selecting version 2.1.0-1 for installation.
+2015/07/19 13:38:57 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2015/07/19 13:38:57 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2015/07/19 13:38:57 Adding required dependency libpng16: Selecting version 1.6.17-1 for installation.
+2015/07/19 13:38:57 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2015/07/19 13:38:57 Adding required dependency libxml2: Selecting version 2.9.2-1 for installation.
+2015/07/19 13:38:57 Adding required dependency lynx: Selecting version 2.8.7-2 for installation.
+2015/07/19 13:38:57 Adding required dependency perl-Carp: Selecting version 1.3301-2 for installation.
+2015/07/19 13:38:57 Adding required dependency perl-Pod-Simple: Selecting version 3.30-1 for installation.
+2015/07/19 13:38:57 Adding required dependency perl_autorebase: Selecting version 5.14.4-3 for installation.
+2015/07/19 13:38:57 Adding required dependency perl_base: Selecting version 5.14.4-3 for installation.
+2015/07/19 13:38:57 Adding required dependency shared-mime-info: Selecting version 1.4-1 for installation.
+2015/07/19 13:38:57 Adding required dependency windows-default-manifest: Selecting version 6.4-1 for installation.
+2015/07/19 13:38:58 note: Download Complete
+2015/07/19 13:38:58 Ending cygwin install
